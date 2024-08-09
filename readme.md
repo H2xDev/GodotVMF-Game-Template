@@ -30,9 +30,11 @@
 | info_overlay | Implemented | Has two modes - geometry and decal |
 | env_fade | Implemented | |
 | env_shake | Not completely | A little bit different logic but should work near the original |
-| env_fog_controller | Not implemented | |
+| env_fog_controller | Not implemented | Works a little bit different from the original |
 | path_track | Implemented | |
+| path_corner | Implemented | Duplicate of path_track |
 | point_teleport | Implemented | |
+| point_viewcontrol | Implemented | |
 | game_text | Implemented | Without scan effect |
 | light | Implemented | |
 | light_spot | Implemented | |
